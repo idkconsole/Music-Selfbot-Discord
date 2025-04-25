@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "volume": 100,
+    "voice_channel": "",
+    "discord.http.Route.BASE": "https://canary.discord.com/api/v10",
+    "discord_user_token": ""
+}
