@@ -1,0 +1,49 @@
+Host: ether.lunarnodes.xyz
+Port: 6969
+Password: lunarnodes.xyz
+Secure: false
+
+Host: xeon1-de.reyo.run
+Port: 2561
+Password: freelavalinkserver
+Secure: false
+
+Host: 45.43.163.132
+Port: 88
+Password: stonemusicgay
+Secure: false
+
+Host: lavalink.oryzen.xyz
+Port: 80
+Password: oryzen.xyz
+Secure: false
+
+Host: lavalink.jirayu.net
+Port: 2353
+Password: youshallnotpass
+Secure: false
+
+Host: us1.lavalink.creavite.co
+Port: 20080
+Password: auto.creavite.co
+Secure: false
+
+Host: lava-v3.ajieblogs.eu.org
+Port: 80
+Password: https://dsc.gg/ajidevserver
+Secure: false
+
+Host: lava-v4.ajieblogs.eu.org
+Port: 80
+Password: https://dsc.gg/ajidevserver
+Secure: false
+
+Host: lavalink1.albinhakanson.se
+Port: 1141
+Password: albinhakanson.se
+Secure: false
+
+Host: lavalink.api.timelessnesses.me
+Port: 80
+Password: youshallnotpass
+Secure: false
